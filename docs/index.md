@@ -7,12 +7,10 @@ hero:
   text: "web3.js 文档"
   tagline: My great project tagline
   actions:
-    - theme: brand
+    - theme: web3_eth
       text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      link: /guides/web3_eth/eth
+  
 
 features:
   - title: Feature A

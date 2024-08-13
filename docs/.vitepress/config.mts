@@ -7,6 +7,7 @@ export default defineConfig({
   head: [
     ['link', { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css' }]
   ],
+  ignoreDeadLinks: true,
   markdown: {
     toc: {
       level: [2, 3]
