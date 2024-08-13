@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/web3.js-docs/',
   title: "web3.js",
   description: "web3.js 文档",
   head: [
