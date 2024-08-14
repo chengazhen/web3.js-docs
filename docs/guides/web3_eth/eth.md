@@ -346,7 +346,7 @@ Transaction receipt: {
 要使用 web3-eth 软件包的功能，可以选择直接导入该软件包，而不是依赖全局 web3 软件包，这样可以减少构建的大小。
 
 
-### 直接导入 web3-eth
+### 直接导入 web3-eth {#直接导入 web3-et}
 
 例如 getBalance 方法：
 
