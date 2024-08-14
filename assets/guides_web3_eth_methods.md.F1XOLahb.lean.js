@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as s}from"./chunks/framework.CzTYqZAs.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guides/web3_eth/methods.md","filePath":"guides/web3_eth/methods.md"}'),o={name:"guides/web3_eth/methods.md"};function a(r,d,c,n,_,i){return s(),t("div")}const p=e(o,[["render",a]]);export{h as __pageData,p as default};
