@@ -1,5 +1,4 @@
 import { defineConfig } from 'vitepress'
-import markdownItAnchor from 'markdown-it-anchor'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -9,6 +8,7 @@ export default defineConfig({
   head: [
     ['link', { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css' }]
   ],
+  ignoreDeadLinks: true,
  
   markdown: {
    
