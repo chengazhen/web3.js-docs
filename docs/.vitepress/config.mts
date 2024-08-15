@@ -34,8 +34,14 @@ export default defineConfig({
         {
           text: '学习 Web3Eth 内部的方法',
           link: '/guides/web3_eth/methods'
+        }],
+      },{
+        text: 'Web3 ENS 模块',
+        items: [{
+          text: '熟练掌握 Web3 ENS 模块',
+          link: '/guides/ens/index'
         }]
-      },]
+      }]
     },
 
     socialLinks: [
