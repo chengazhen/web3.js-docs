@@ -41,6 +41,12 @@ export default defineConfig({
           text: '熟练掌握 Web3 ENS 模块',
           link: '/guides/ens/index'
         }]
+      },{
+        text: 'Web3 插件',
+        items: [{
+          text: '开始',
+          link: '/guides/web3_plugin_guide/index'
+        }]
       }]
     },
 
